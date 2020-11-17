@@ -1,0 +1,21 @@
+{
+  "name": "modern-javascript-project",
+  "version": "1.0.0",
+  "description": "How to start a modern JavaScript project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jafferson1/modern-javascript-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jafferson1/modern-javascript-project/issues"
+  },
+  "homepage": "https://github.com/Jafferson1/modern-javascript-project#readme"
+}
